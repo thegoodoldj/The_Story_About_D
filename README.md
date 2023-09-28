@@ -1,5 +1,3 @@
-# The Story About Discord, Doxxing, and Jalapeno Beans
-<!DOCTYPE html>
 <html>
   <body>
     <h1>What caused all this mess</h1>
